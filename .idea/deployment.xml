@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="cd0db34a-cc54-426d-9f3a-39aad6cdc1cb">
+    <serverData>
+      <paths name="sabo@10.88.36.105:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="sabo@10.88.36.105:22 password" />
+  </component>
+</project>
